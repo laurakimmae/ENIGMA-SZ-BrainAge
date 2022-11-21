@@ -1,5 +1,5 @@
 #### SCZ brain age project
-# written by LAura HAn (L.Han@ggzingeest.nl) and Esther Walton (waltonesther@gmail.com)
+# written by Laura Han (laurakimmae@gmail.com) and Esther Walton (waltonesther@gmail.com)
 # Revised by Constantinos Constantinides (cc2557@bath.ac.uk) on 10/08/2022 
 
 # setwd
